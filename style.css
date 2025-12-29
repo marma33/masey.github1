@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+   padding: 15px;
+}
+body{
+    background-image: url(image/wave.svg);
+    background-repeat: no-repeat;
+    
+}
+.section1{
+    display: flex;
+    padding: 4%;
+    font-family:  sans-serif;
+   
+    
+}
+
+.main1{
+    padding: 20px;
+}
+h2{
+    font-size: 30px;
+    color: aliceblue;
+    padding: 20px;
+
+}
+
+.black{
+    color: black;
+}
+
+h1{
+    font-size: 50px;
+    color: aliceblue;
+    padding: 20px;
+}
+a{
+    text-decoration: none;
+    padding: 10px solid;
+}
+p{
+    font-size: 15px;
+    padding-bottom: 20px;
+    font-weight: bold;
+    color: black;
+
+}
+h3{
+    font-size: 50px;
+}
+
+.main{
+    width: 50%;
+
+}
+.link{
+    /* background-color: aqua; */
+    box-sizing: border-box;
+    padding: 10px 40px;
+    color: rgb(217, 227, 233);
+    font-size: 15px;
+    border-radius: 15px;
+    background-image: linear-gradient(hotpink,blue,orange);
+
+}
+
+img{
+    width: 80%;
+}
+
+.section{
+
+    display: flex;
+    padding: 4%;
+    font-family:  sans-serif;
+   
+}
+
+.cointeiner{
+
+}
+
+h4{
+    font-size: 40px;
+}
+
+.black{
+    display: flex;
+
+}
+
+.profile-img{
+    width: 50%;
+    border-radius: 50%;
+
+}
+img{
+    border-radius: 50%;
+}
+
+.Spaceializing{
+    text-align: center;
+    padding: 2%;
+}
+
+.perents{
+    display: flex;
+    padding: 0 10%;
+}
+
+.child{
+    box-shadow: 10px 5px 50px black;
+    margin: 2%;
+    padding: 50px;
+    border-radius: 0 20px 50px 0;
+     border-left: 5px solid black;
+    border-image: linear-gradient(#00f,#eef10d) 0 100%;
+}
+
+.heading{
+    font-size: 20px;
+   
+}
+section{
+    text-align: center;
+}
+
+
+
+
+
+
